@@ -1,4 +1,4 @@
-
+ 
         <!DOCTYPE html>
         <html lang="en">
         <head>
@@ -10,10 +10,7 @@
           gtag('js', new Date());
           gtag('config', 'UA-150314142-1');
         </script>  
-     
-</body>
-<a href="five/index.html">Next</a>
-</html>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
