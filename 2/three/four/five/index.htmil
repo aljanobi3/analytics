@@ -1,0 +1,33 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-150314142-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'UA-150314142-1');
+        </script>  
+     
+</body>
+<a href="five/index.html">Next</a>
+</html>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>mohammad aljanobi5</title>
+    <link rel="stylesheet" href="five.css">
+</head>
+<body>
+    
+I will be that feeling in your heart
+That let's you know I'll love you like no other.
+I will be anything you need at anytime.
+I will always be...your mother. 
+
+
+</body>
+<a href="https://aljanobi3.github.io/analytics/">back</a>
+</html>
